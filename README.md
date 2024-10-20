@@ -3,7 +3,7 @@
 <h3>
 Aluno:Francisco Charlison Dos Santos Carneiro.<br>
 Prof: Ricardo Duarte Taveira.<br>
-P4 Informatica<br>
+P4 Informática<br>
 Semestre: 2024.2
 
 <h3>Repositório criado para direciona-lo(a) diretamente para as atividades e os exercícios.

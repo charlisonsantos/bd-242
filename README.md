@@ -25,3 +25,27 @@ Aluno:<a href = "https://github.com/charlisonsantos">Francisco Charlison Dos San
 <a href = "">Atividade 09:</a><br>
 
 <a href = "">Atividade 10:</a><br>
+
+##
+
+<h3 align="center">Exercicios:</h3>
+
+<a href = "">Exercicio 01:</a><br>
+
+<a href = "">Exercicio 02:</a><br>
+
+<a href = "">Exercicio 03:</a><br>
+
+<a href = "">Exercicio 04:</a><br>
+
+<a href = "">Exercicio 05:</a><br>
+
+<a href = "">Exercicio 06:</a><br>
+
+<a href = "">Exercicio 07:</a><br>
+
+<a href = "">Exercicio 08:</a><br>
+
+<a href = "">Exercicio 09:</a><br>
+
+<a href = "">Exercicio 10:</a><br>

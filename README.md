@@ -1,7 +1,7 @@
-<h2 align="center"> banco de dados <h2>
+<h2 align="center"> Banco de Dados <h2>
 <p>
-p4 informatica<br>
-aluno:<a href = "https://github.com/charlisonsantos">Francisco Charlison Dos Santos Carneiro</a>. 
+p4 Informatica<br>
+Aluno:<a href = "https://github.com/charlisonsantos">Francisco Charlison Dos Santos Carneiro</a>.
 </p>
 
 <h3 align="center">Atividades:</h3>

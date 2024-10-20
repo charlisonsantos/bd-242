@@ -1,8 +1,12 @@
 <h2 align="center"> Banco de Dados <h2>
+
 <p>
 p4 Informatica<br>
-Aluno:<a href = "https://github.com/charlisonsantos">Francisco Charlison Dos Santos Carneiro</a>.
+Aluno:Francisco Charlison Dos Santos Carneiro.<br>
+prof: Ricardo Duarte Taveira.<br>
+Semestre: 2024.2
 </p>
+<p>Repositório criado para direciona-lo(a) diretamente para as atividades e os exercícios.<p>
 
 <h3 align="center">Atividades:</h3>
 

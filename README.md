@@ -1,9 +1,9 @@
 <h1 align="center"> Banco de Dados 
   
 <h3>
-p4 Informatica<br>
 Aluno:Francisco Charlison Dos Santos Carneiro.<br>
-prof: Ricardo Duarte Taveira.<br>
+Prof: Ricardo Duarte Taveira.<br>
+P4 Informatica<br>
 Semestre: 2024.2
 
 <h3>Repositório criado para direciona-lo(a) diretamente para as atividades e os exercícios.

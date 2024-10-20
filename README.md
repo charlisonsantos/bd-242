@@ -30,22 +30,22 @@ Aluno:<a href = "https://github.com/charlisonsantos">Francisco Charlison Dos San
 
 <h3 align="center">Exercicios:</h3>
 
-<a href = "">Exercicio 01:</a><br>
+<a href = "https://github.com/charlisonsantos/bd-242/tree/main/Exercicios/Exercicio-01">Exercicio 01:</a><br>
 
-<a href = "">Exercicio 02:</a><br>
+<a href = "https://github.com/charlisonsantos/bd-242/tree/main/Exercicios/Exercicio-02">Exercicio 02:</a><br>
 
-<a href = "">Exercicio 03:</a><br>
+<a href = "https://github.com/charlisonsantos/bd-242/tree/main/Exercicios/Exercicio-03">Exercicio 03:</a><br>
 
-<a href = "">Exercicio 04:</a><br>
+<a href = "https://github.com/charlisonsantos/bd-242/tree/main/Exercicios/Exercicio-04">Exercicio 04:</a><br>
 
-<a href = "">Exercicio 05:</a><br>
+<a href = "https://github.com/charlisonsantos/bd-242/tree/main/Exercicios/Exercicio-05">Exercicio 05:</a><br>
 
-<a href = "">Exercicio 06:</a><br>
+<a href = "https://github.com/charlisonsantos/bd-242/tree/main/Exercicios/Exercicio-06">Exercicio 06:</a><br>
 
-<a href = "">Exercicio 07:</a><br>
+<a href = "https://github.com/charlisonsantos/bd-242/tree/main/Exercicios/Exercicio-07">Exercicio 07:</a><br>
 
-<a href = "">Exercicio 08:</a><br>
+<a href = "https://github.com/charlisonsantos/bd-242/tree/main/Exercicios/Exercicio-08">Exercicio 08:</a><br>
 
-<a href = "">Exercicio 09:</a><br>
+<a href = "https://github.com/charlisonsantos/bd-242/tree/main/Exercicios/Exercicio-09">Exercicio 09:</a><br>
 
-<a href = "">Exercicio 10:</a><br>
+<a href = "https://github.com/charlisonsantos/bd-242/tree/main/Exercicios/Exercicio-10">Exercicio 10:</a><br>

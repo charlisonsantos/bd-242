@@ -1,13 +1,14 @@
-<h2 align="center"> Banco de Dados <h2>
-
-<p>
+<h1 align="center"> Banco de Dados 
+  
+<h3>
 p4 Informatica<br>
 Aluno:Francisco Charlison Dos Santos Carneiro.<br>
 prof: Ricardo Duarte Taveira.<br>
 Semestre: 2024.2
-</p>
-<p>Repositório criado para direciona-lo(a) diretamente para as atividades e os exercícios.<p>
 
+<h3>Repositório criado para direciona-lo(a) diretamente para as atividades e os exercícios.
+  
+#
 <h3 align="center">Atividades:</h3>
 
 <a href = "https://github.com/charlisonsantos/bd-242/tree/main/Atividades/Atividade-01">Atividade 01</a><br>

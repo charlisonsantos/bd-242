@@ -6,7 +6,8 @@ Prof: Ricardo Duarte Taveira.<br>
 P4 Informática<br>
 Semestre: 2024.2
 
-<h3>Repositório criado para direciona-lo(a) diretamente para as atividades e os exercícios.
+<h3>Repositório criado para guardar e resgistrar as atividades e os exercícios.<br>
+obs: você pode ser direcionado diretamente para as atividades ou exercícios, apenas clicando abaixo na atividade ou exercício escolhido:
   
 #
 <h3 align="center">Atividades:</h3>

@@ -6,7 +6,7 @@ Prof: Ricardo Duarte Taveira.<br>
 P4 Informática<br>
 Semestre: 2024.2
 
-<h3>Repositório criado para guardar e resgistrar as atividades e os exercícios.<br>
+<h3>Repositório criado para guardar e resgistrar as atividades e os exercícios de Banco de Dados.<br>
 obs: você pode ser direcionado diretamente para as atividades ou exercícios, apenas clicando abaixo na atividade ou exercício escolhido:
   
 #

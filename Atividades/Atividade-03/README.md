@@ -7,4 +7,4 @@ feito
 <h3>03.Exemplifique o uso de comando SQL que executam operações CRUD(Insert, Select, Update e Delete):<br>
 feito
 
-<a href = "">imagem</a>
+<a href = "https://github.com/charlisonsantos/bd-242/blob/main/Atividades/Atividade-03/2024-12-12%20(5).png">imagem</a>

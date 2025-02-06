@@ -1,4 +1,4 @@
-# Atividade 07
+<h2 align="center">Atividade 07:
 
 ## Criar um Banco de Dados usando o PHPMyAdmin usando o PlayWithDocker. 
 ## Evidenciar as tabelas e seus objetos e relacionamentos.
